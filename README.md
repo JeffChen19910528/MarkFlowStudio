@@ -138,4 +138,4 @@ npm run desktop    # 產生桌面版安裝程式(需要 Rust 與 Visual Studio �
 
 ## 授權
 
-MIT 授權。內含的第三方軟體與授權請見壓縮檔中的 `THIRD-PARTY-NOTICES.txt`。開發者文件在 [`docs/`](./docs) 資料夾(繁體中文)。
+MIT 授權。內含的第三方軟體與授權請見壓縮檔中的 `THIRD-PARTY-NOTICES.txt`。
