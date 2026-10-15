@@ -138,4 +138,4 @@ The full list is under "Shortcuts" on the toolbar.
 
 ## License
 
-MIT. Third-party software and its licenses are listed in `THIRD-PARTY-NOTICES.txt` inside the zip. Developer documentation is in the [`docs/`](./docs) folder (Traditional Chinese).
+MIT. Third-party software and its licenses are listed in `THIRD-PARTY-NOTICES.txt` inside the zip.

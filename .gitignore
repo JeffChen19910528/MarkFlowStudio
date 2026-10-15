@@ -8,3 +8,5 @@ release/
 # Tauri
 src-tauri/target/
 src-tauri/gen/
+CLAUDE.md
+.claude/
