@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<title>範例網頁</title>
+<style>body { color: red }</style>
+<script>window.__pwn = 1</script>
+</head>
+<body onload="window.__pwn = 2">
+<h1>網頁標題</h1>
+<p>段落含 <strong>粗體</strong>、<em>斜體</em>、<del>刪除</del> 與 <a href="https://example.com">連結</a>。</p>
+<p style="color:blue"><a href="javascript:alert(1)">危險連結</a></p>
+<ul><li>甲<ul><li>乙</li></ul></li><li>丙</li></ul>
+<table>
+<thead><tr><th>欄一</th><th>欄二</th></tr></thead>
+<tbody><tr><td>a | b</td><td colspan="1">d</td></tr></tbody>
+</table>
+<pre><code class="language-js">const x = 1;
+</code></pre>
+<img src="data:image/png;base64,AAAA" alt="內嵌圖">
+<img src="pic/relative.png" alt="相對圖">
+<iframe src="https://evil.example"></iframe>
+</body>
+</html>

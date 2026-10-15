@@ -1,0 +1,1 @@
+{"$schema":"../gen/schemas/desktop-schema.json","identifier":"default","description":"No permissions: the page uses only web APIs.","windows":["main"],"permissions":[]}
